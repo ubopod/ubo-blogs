@@ -31,7 +31,9 @@ It includes an SDK for developers to create their applications for Ubo Pod as we
 
 Ubo App is designed to allow a less tech savvy or lazy tech savy user to perform typical system admin tasks with ease. Here's a quick video showing some of the features:
 
-<video src="https://www.youtube.com/watch?v=rfOTZ1uKssQ" controls></video>
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=rfOTZ1uKssQ">
+</video>
 
 ### Netorking
 Using the graphical user interface, you can add/delete WiFi networks (pass credentials either through QR code or Web UI), make the device a WiFi hotspot, get inteface IPs, and other network related tasks.
