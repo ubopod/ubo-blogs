@@ -35,6 +35,9 @@ Ubo App is designed to allow a less tech savvy or lazy tech savy user to perform
   <source src="https://www.youtube.com/watch?v=rfOTZ1uKssQ">
 </video>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rfOTZ1uKssQ/0.jpg)](https://www.youtube.com/watch?v=rfOTZ1uKssQ)
+
+
 ### Netorking
 Using the graphical user interface, you can add/delete WiFi networks (pass credentials either through QR code or Web UI), make the device a WiFi hotspot, get inteface IPs, and other network related tasks.
 
