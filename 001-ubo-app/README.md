@@ -31,11 +31,7 @@ It includes an SDK for developers to create their applications for Ubo Pod as we
 
 Ubo App is designed to allow a less tech savvy or lazy tech savy user to perform typical system admin tasks with ease. Here's a quick video showing some of the features:
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=rfOTZ1uKssQ">
-</video>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rfOTZ1uKssQ/0.jpg)](https://www.youtube.com/watch?v=rfOTZ1uKssQ)
+[![software demo video](https://img.youtube.com/vi/rfOTZ1uKssQ/0.jpg)](https://www.youtube.com/watch?v=rfOTZ1uKssQ)
 
 
 ### Netorking
