@@ -33,6 +33,7 @@ Ubo App is a Python library that allows you to interact with the Ubo Pod. It is 
 Ubo App is designed to allow a less tech-savvy or lazy tech-savvy user to perform typical system admin tasks with ease. Here's a quick video showing some of the features:
 
 ### Networking
+[![software demo video](https://img.youtube.com/vi/rfOTZ1uKssQ/0.jpg)](https://www.youtube.com/watch?v=rfOTZ1uKssQ)
 
 Using the graphical user interface, you can add/delete WiFi networks (pass credentials either through QR code or Web UI), make the device a WiFi hotspot, get interface IPs, and other network related tasks.
 
